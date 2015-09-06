@@ -1,9 +1,9 @@
 # Site settings
-title: ddbullfrog's blog
-description: ddbullfrog's blog
+title: Chengzhen Wang's HomePage
+description: Chengzhen Wang's Homepage
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: http://ddbullfrog.com
+url: http://freechengzhen.github.io
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -11,15 +11,15 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
+  name: Chengzhen Wang
+  title: Coder
+  address: Los Angeles, California
+  email: freechengzhen@gmail.com
+  link: http://freechengzhen.github.io
+  weibo: 再见_西尔维
+  github: freechengzhen
   linkedin: ddbullfrog
-  twitter: ddbullfrog
+  twitter: freechengzhen
   gavatar: /assets/img/avatar.JPG
   workHistory:
     - work1:
@@ -45,12 +45,12 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: University of Southern California
+      degree: Master
+      major: Computer Science
+      started: 2015
+      duration: (2015 - 2017)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
       name: Chinese
@@ -63,17 +63,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Java/Java EE
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: C++
       percentage: 90%
-    - skill3:
+    - skill3: 
       name: JavaScript
       percentage: 80%
     - skill4:
-      name: AngularJS
+      name: Python
       percentage: 80%
     - skill5:
-      name: Java/Java EE
+      name: HTML/CSS
       percentage: 90%
