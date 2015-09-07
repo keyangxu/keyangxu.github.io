@@ -1,6 +1,6 @@
 # Site settings
-title: Chengzhen Wang's HomePage
-description: Chengzhen Wang's Homepage
+title: Keyang Xu's HomePage
+description: Keyang Xu's Homepage
 favicon: /assets/img/avatar.JPG
 baseurl:
 url: http://freechengzhen.github.io
@@ -11,7 +11,7 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Chengzhen Wang
+  name: Keyang Xu
   title: Developer
   address: Los Angeles, California
   email: freechengzhen@gmail.com
