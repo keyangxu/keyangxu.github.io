@@ -1,6 +1,6 @@
 # Site settings
-title: Keyang Xu's HomePage
-description: Keyang Xu's Homepage
+title: Chengzhen's HomePage
+description: chengzhen wang's Homepage
 favicon: /assets/img/avatar.JPG
 baseurl:
 url: http://freechengzhen.github.io
@@ -11,7 +11,7 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Keyang Xu
+  name: chengzhen wang
   title: Developer
   address: Los Angeles, California
   email: freechengzhen@gmail.com
@@ -30,7 +30,7 @@ author:
       description: I did some NLP work and developed a data mining website using SSH Framework.
   educationHistory:
     - education1:
-      organization: University of Southern California
+      organization: Carnegie Mellon University
       degree: Master
       major: Computer Science
       started: 2015
