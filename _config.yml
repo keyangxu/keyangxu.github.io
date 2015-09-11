@@ -36,9 +36,10 @@ author:
       description: GPA 3.90/4.0; Rank 1/138
   workHistory:
     - work1:
-      company: Information Retrieval Group
+      company: Information Retrieval Group, Tsinghua University
       location: Beijing, China
       title: Research Assistant
+      advisor: Dr.Yiqun Liu
       started: 2014
       duration: (2013.8 - 2015.7)
       description: My research interests foucused on Information Retrieval and Text Mining.
@@ -46,6 +47,7 @@ author:
       company: School of Information, University of Michigan
       location: Ann Arbor, USA
       title: Research Assistant
+      advisor: Dr.Qiaozhu Mei
       started: 2014
       duration: (2014.7 - 2014.9)
       description: I worked text minning project on medical corpora.
