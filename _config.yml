@@ -1,9 +1,9 @@
 # Site settings
-title: Chengzhen Wang's HomePage
-description: Chengzhen Wang's Homepage
+title: Keyang Xu's HomePage
+description: Keyang Xu's Homepage
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: http://freechengzhen.github.io
+url: http://rivercold.github.io
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -11,38 +11,44 @@ markdown: kramdown
 
 # Author settings
 author:
-  name: Chengzhen Wang
-  title: Developer
-  address: Los Angeles, California
-  email: freechengzhen@gmail.com
-  link: http://freechengzhen.github.io
-  weibo: 再见_西尔维
-  github: freechengzhen
-  twitter: freechengzhen
+  name: Keyang Xu
+  title: Language Technology Institute
+  address: Carnegie Mellon University
+  email: keyangx at cs dot cmu dot edu
+  link: http://rivercold.github.io
+  github: rivercold
   gavatar: /assets/img/avatar.JPG
-  workHistory:
-    - work1:
-      company: Tsinghua-Waterloo Joint Research Center for Internet Information
-      location: Beijing, China
-      title: Research Assistant
-      started: 2014
-      duration: (2014.4 - 2015.6)
-      description: I did some NLP work and developed a data mining website using SSH Framework.
+  
   educationHistory:
     - education1:
-      organization: University of Southern California
+      organization: Carnegie Mellon University
       degree: Master
       major: Computer Science
       started: 2015
-      duration: (2015.8 - 2017.6)
-      description: I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2015.8 - 2017.6(estimated))
+      description: Research oriented program.
     - education2:
       organization: Beihang University
       degree: Bachelor
       major: Software Engineering
       started: 2011
-      duration: (2011.9 - 2015.7)
-      description: I had been studying here for 4 years.
+      duration: (2011.9 - 2015.6)
+      description: GPA 3.90/4.0; Rank 1/138
+  workHistory:
+    - work1:
+      company: Information Retrieval Group
+      location: Beijing, China
+      title: Research Assistant
+      started: 2014
+      duration: (2013.8 - 2015.7)
+      description: My research interests foucused on Information Retrieval and Text Mining.
+    - work1:
+      company: School of Information, University of Michigan
+      location: Ann Arbor, USA
+      title: Research Assistant
+      started: 2014
+      duration: (2014.7 - 2014.9)
+      description: I worked text minning project on medical corpora.
   languages:
     - language1:
       name: Chinese
@@ -52,14 +58,17 @@ author:
       proficiency: Professional
   programmingSkills:
     - skill1:
-      name: Java/Java EE
+      name: Python
       percentage: 100%
     - skill2:
-      name: C++
-      percentage: 90%
+      name: Some new languages!
+      percentage: 100%
     - skill3: 
       name: HTML/JavaScript/CSS
       percentage: 80%
     - skill4:
-      name: Python
+      name: Ruby
+      percentage: 80%
+    - skill5:
+      name: Java
       percentage: 80%
