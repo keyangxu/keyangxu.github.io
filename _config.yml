@@ -8,32 +8,31 @@ rss_url: /pages/atom.xml
 
 # Build settings
 markdown: kramdown
-
+  
 # Author settings
 author:
-  name: Keyang Xu
+  name: Keyang Xu (徐可扬)
   title: Language Technology Institute
   address: Carnegie Mellon University
   email: keyangx at cs dot cmu dot edu
   link: http://rivercold.github.io
   github: rivercold
   gavatar: /assets/img/avatar.JPG
-  
   educationHistory:
     - education1:
       organization: Carnegie Mellon University
       degree: Master
-      major: Computer Science
+      major: Language Technology
       started: 2015
       duration: (2015.8 - 2017.6(estimated))
-      description: Research oriented program.
+      description: This is a research oriented master program.<br> I am advised by Professor Jamie Callan.
     - education2:
       organization: Beihang University
       degree: Bachelor
       major: Software Engineering
       started: 2011
       duration: (2011.9 - 2015.6)
-      description: GPA 3.90/4.0; Rank 1/138
+      description:  Rank 1/138; GPA 3.90/4.0.
   workHistory:
     - work1:
       company: Information Retrieval Group, Tsinghua University
@@ -42,7 +41,7 @@ author:
       advisor: Dr.Yiqun Liu
       started: 2014
       duration: (2013.8 - 2015.7)
-      description: My research interests foucused on Information Retrieval and Text Mining.
+      description: My research interests foucused on diversified search and evaluation of IR systems.
     - work1:
       company: School of Information, University of Michigan
       location: Ann Arbor, USA
